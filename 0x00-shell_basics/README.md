@@ -8,3 +8,4 @@ A script that creates a directory inside a directory.
 Moving the file Betty
 Deleting the file betty.
 Delete the directory
+Write a script that changes the working directory.
