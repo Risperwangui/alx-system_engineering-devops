@@ -7,3 +7,4 @@ Display current directory contents.
 A script that creates a directory inside a directory.
 Moving the file Betty
 Deleting the file betty.
+Delete the directory
