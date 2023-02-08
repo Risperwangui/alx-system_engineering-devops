@@ -17,3 +17,4 @@ create a script that moves all files beginning with an uppercase letter to the d
 Clean Emacs
 Create a script that created the directories
 Write a command that lists all the files and directories of the current directory,separated by commas.
+Creating a magic file.
