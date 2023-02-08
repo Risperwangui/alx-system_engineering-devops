@@ -11,3 +11,4 @@ Delete the directory
 Write a script that changes the working directory.
 Write a script that lists all files in the current directory and the parent of the working directory.
 Write a script that prints the type of the file named iamafile.
+Create a symbolic link to /bin/ls.
