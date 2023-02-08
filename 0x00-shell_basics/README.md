@@ -13,3 +13,4 @@ Write a script that lists all files in the current directory and the parent of t
 Write a script that prints the type of the file named iamafile.
 Create a symbolic link to /bin/ls.
 Copy HTML files
+create a script that moves all files beginning with an uppercase letter to the directory.
