@@ -5,3 +5,4 @@ Displaying the current directory contents in a long format
 Display current directory content including hidden files starting with a period character.
 Display current directory contents.
 A script that creates a directory inside a directory.
+Moving the file Betty
