@@ -14,3 +14,5 @@ Create a script that prints all possible combinations of two letters
 Write ascript that prints a number with two decimal places.
 Write a script that converts a number from baase 10 to base 16
 rite a script that encodes and decodes text using the rot13 encryption.
+rite a script that encodes and decodes text using the rot13 encryption.
+Write a script that prints every other line from the input.
