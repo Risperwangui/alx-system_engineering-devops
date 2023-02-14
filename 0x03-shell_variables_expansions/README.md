@@ -5,3 +5,4 @@ Create a script that counts the number of directories in the path
 Create a script that lists environment variables
 Create a script that lists all local variables and environment varibles and functios.
 Create a script that creates a new local variable
+Create a script that creates a new global variable
