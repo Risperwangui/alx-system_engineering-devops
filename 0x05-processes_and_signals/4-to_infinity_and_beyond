@@ -3,7 +3,7 @@
 #In between the loop we must add "sleep 2" as a loop
 
 while true
-d0
+do
 	echo "To infinity and beyond"
 	sleep 2
 done
