@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# this creates an RSA key pair, name of private ky school
+
+ssh-keygen -t rsa -b 4096 -f school -P betty

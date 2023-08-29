@@ -1,0 +1,4 @@
+# this is a config file for ssh client ensuring no connectivity
+Host *
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school
